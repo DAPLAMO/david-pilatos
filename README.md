@@ -10,6 +10,8 @@
 
 </div>
 
+> **Proyecto académico (SENA).** Réplica de la interfaz de una tienda de ropa real, hecha solo para practicar maquetación. No tiene relación con la marca ni vende productos; nombres e imágenes pertenecen a sus dueños.
+
 ---
 
 ## Qué incluye
