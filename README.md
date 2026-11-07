@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pilatos · Tienda de ropa en línea
+# Pilatos · Réplica de tienda en línea
 
 **Tienda web responsive con catálogo para hombre y mujer, novedades, ofertas y formulario de pedidos.**
 
